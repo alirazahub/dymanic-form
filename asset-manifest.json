@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dymanic-form/static/js/main.64e31969.chunk.js",
+    "main.js.map": "/dymanic-form/static/js/main.64e31969.chunk.js.map",
+    "runtime-main.js": "/dymanic-form/static/js/runtime-main.b4905d5a.js",
+    "runtime-main.js.map": "/dymanic-form/static/js/runtime-main.b4905d5a.js.map",
+    "static/js/2.799d3935.chunk.js": "/dymanic-form/static/js/2.799d3935.chunk.js",
+    "static/js/2.799d3935.chunk.js.map": "/dymanic-form/static/js/2.799d3935.chunk.js.map",
+    "index.html": "/dymanic-form/index.html",
+    "precache-manifest.dd4c427c9dd8c30d8e803503b5093291.js": "/dymanic-form/precache-manifest.dd4c427c9dd8c30d8e803503b5093291.js",
+    "service-worker.js": "/dymanic-form/service-worker.js",
+    "static/js/2.799d3935.chunk.js.LICENSE.txt": "/dymanic-form/static/js/2.799d3935.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4905d5a.js",
+    "static/js/2.799d3935.chunk.js",
+    "static/js/main.64e31969.chunk.js"
+  ]
+}
